@@ -1,0 +1,30 @@
+*{margin: 0; padding: 0;}
+
+.v{
+	padding:0;
+	list-style-type:none;
+	width:1350px;
+	background:#660066;
+	border-bottom::#ffffff;
+	min-height:38px;
+}
+.v li{
+	float:left;
+	left:0;
+	border-bottom:#ffffff;
+}
+
+.v li a{
+	padding:10px 20px;
+	text-decoration:none;
+	color:#ffffff;
+	background:#660066;
+	display:block;
+	width:200px;
+	text-align:center;
+	
+}
+.v li a:hover{
+	color:#660066;
+	background:#ffffff;
+}
